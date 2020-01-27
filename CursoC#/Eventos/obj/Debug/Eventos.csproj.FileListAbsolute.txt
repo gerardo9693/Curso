@@ -1,0 +1,6 @@
+C:\Users\gerardo.ku\Documents\Visual Studio 2019\CursoC#\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\gerardo.ku\Documents\Visual Studio 2019\CursoC#\Eventos\bin\Debug\Eventos.exe
+C:\Users\gerardo.ku\Documents\Visual Studio 2019\CursoC#\Eventos\bin\Debug\Eventos.pdb
+C:\Users\gerardo.ku\Documents\Visual Studio 2019\CursoC#\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\gerardo.ku\Documents\Visual Studio 2019\CursoC#\Eventos\obj\Debug\Eventos.exe
+C:\Users\gerardo.ku\Documents\Visual Studio 2019\CursoC#\Eventos\obj\Debug\Eventos.pdb
